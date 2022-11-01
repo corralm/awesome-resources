@@ -1,5 +1,5 @@
-# My Favorite Data Science Books
-
+# Awesome Data Science Resources 
+My personally curated list of awesome books, courses, and other resources.
 
 ## Data Engineering
 - `Event` [**Data Engineering for Data Scientists**](https://learning.oreilly.com/live-events/data-engineering-for-data-scientists/0636920303039/0636920053608/): Automating data pipeline workflows.
@@ -41,6 +41,9 @@
 
 ## SQL
 - `Book` [**SQL Pocket Guide (4th Edition)**](https://learning.oreilly.com/library/view/sql-pocket-guide/9781492090397/): Popular SQL pocket guide.
+
+## Tools
+- 
 
 ## Web Scraping
 - `Book` [**Web Scraping with Python (2nd Edition)**](https://learning.oreilly.com/library/view/web-scraping-with/9781491985564/): Web scraping handbook.
