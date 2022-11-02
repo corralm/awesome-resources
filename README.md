@@ -1,15 +1,6 @@
 # Awesome Data Science and Coding Resources 
 My personally curated list of awesome books, courses, and other resources.
 
-## Apps
-- `App` [Anki](https://apps.ankiweb.net): A program which makes remembering things easy. Here's a [primer](http://augmentingcognition.com/ltm.html).
-- `App` [Boop](https://boop.okat.best): Run scripts on some text.
-- `App` [iTerm2](https://iterm2.com): macOS Terminal replacement.
-- `App` [Magnet](https://magnet.crowdcafe.com): A window manager for macOS.
-- `App` [Things](https://culturedcode.com/things/): A beautiful task manager for macOS & iOS.
-- `App` [Typinator](https://www.ergonis.com/products/typinator/): Automates the process of inserting frequently used text/code.
-- `App` [Visual Studio Code](https://code.visualstudio.com/): Free coding editor with support for many languages.
-
 ## Data Analysis and Engineering
 - `Book` [**Python for Data Analysis (3rd Edition)**](https://learning.oreilly.com/library/view/python-for-data/9781098104023/): Data analysis handbook.
 - `Event` [**Data Engineering for Data Scientists**](https://learning.oreilly.com/live-events/data-engineering-for-data-scientists/0636920303039/0636920053608/): Automating data pipeline workflows.
@@ -47,7 +38,16 @@ My personally curated list of awesome books, courses, and other resources.
 - `Plugin` [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting): Provides syntax highlighting for Zsh.
 - `Plugin` [zsh-safe-rm](https://github.com/mattmc3/zsh-safe-rm): Put files in your OS's trash instead of permanently deleting them.
 
+## Productivity Apps
+- `App` [Anki](https://apps.ankiweb.net): A program which makes remembering things easy. Here's a [primer](http://augmentingcognition.com/ltm.html).
+- `App` [Boop](https://boop.okat.best): Run scripts on some text.
+- `App` [Magnet](https://magnet.crowdcafe.com): A window manager for macOS.
+- `App` [Things](https://culturedcode.com/things/): A beautiful task manager for macOS & iOS.
+- `App` [Typinator](https://www.ergonis.com/products/typinator/): Automates the process of inserting frequently used text/code.
+
 ## Programming Fundamentals
+- `App` [iTerm2](https://iterm2.com): macOS Terminal replacement.
+- `App` [Visual Studio Code](https://code.visualstudio.com/): Free coding editor with support for many languages.
 - `Book` [**The Linux Command Line (2nd Edition)**](https://learning.oreilly.com/library/view/the-linux-command/9781492071235/): Command line fundamentals.
 - `Book` [**A Common-Sense Guide to Data Structures and Algorithms**](https://learning.oreilly.com/library/view/a-common-sense-guide/9781680502794/): Practival DSA guide.
 - `Resource` [**W3Schools**](https://www.w3schools.com): The largest web developer site on the internet.
@@ -59,15 +59,18 @@ My personally curated list of awesome books, courses, and other resources.
 - `Report` [**AI Fairness**](https://learning.oreilly.com/library/view/ai-fairness/9781492077664/): Learn how to approach fairness and bias.
 
 ## Python
+- `App` [**PyCharm**](https://www.jetbrains.com/pycharm/): The Python IDE for Professional Developers.
 - `Book` [**Python Crash Course (2nd Edition)**](https://learning.oreilly.com/library/view/python-crash-course/9781492071266/): Python fundamentals.
 - `Book` [**Learn Python 3 the Hard Way**](https://learning.oreilly.com/library/view/learn-python-3/9780134693866/): Learn python by typing code precisely.
 - `Book` [**Python Testing with pytest**](https://learning.oreilly.com/library/view/python-testing-with/9781680509427/): Step-by-step instructions and sample code for pytest.
 - `Course` [**Effective Python**](https://learning.oreilly.com/videos/effective-python/9780134175249/): Lessons to writing programs the Pythonic way.
 - `Course` [**Python Fundamentals**](https://learning.oreilly.com/videos/python-fundamentals/9780135917411/): Code-oriented presentation of Python.
+- `Framework` [**Miniconda**](https://docs.conda.io/en/latest/miniconda.html): A small, bootstrap version of Anaconda.
 - `Library` [**Hickory**](https://github.com/maxhumber/hickory): A simple command line tool for scheduling Python scripts.
 - `Resource` [**Real Python**](https://realpython.com): Online python tutorials, video courses, news, and more.
 
 ## SQL
+- `App` [**TablePlus**](https://tableplus.com/): Modern, native, and friendly GUI tool for relational databases.
 - `Book` [**SQL Pocket Guide (4th Edition)**](https://learning.oreilly.com/library/view/sql-pocket-guide/9781492090397/): Popular SQL pocket guide.
 
 ## Web Scraping
