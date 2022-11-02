@@ -19,6 +19,7 @@ Curated list of awesome books I've read, courses I've completed, and other resou
 - `Publication` [**JetBrains Python Developer Survey**](https://www.jetbrains.com/resources/industry-reports/): Reveal the current state of python and the ecosystem around it.
 
 ## Git
+- `Article` [**How to Write a Git Commit Message**](https://cbea.ms/git-commit/): Commit messages matter. Here's how to write them well.
 - `Book` [**Git for Programmers**](https://learning.oreilly.com/library/view/git-for-programmers/9781801075732/): Ultimate guide to git.
 - `Book` [**Git Essentials (2nd Edition)**](https://learning.oreilly.com/library/view/git-essentials/9781787120723/): Short guide on git fundamentals.
 - `Course` [**Git Essentials LiveLessons**](https://learning.oreilly.com/videos/git-essentials-livelessons/9780134655284/): Step-by-step git lessons.
