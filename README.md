@@ -18,7 +18,7 @@ My personally curated list of awesome books, courses, and other resources.
 - `Resource` [**Git Commit Types**](https://github.com/pvdlg/conventional-changelog-metahub#commit-types): List of conventional commit types.
 
 ## Machine Learning and Statistics
-- `Book` [**Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition**](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/): Machine learning handbook with examples.
+- `Book` [**Hands-On Machine Learning (2nd Edition)**](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/): Machine learning handbook with examples.
 - `Book` [**Python Data Science Handbook**](https://learning.oreilly.com/library/view/python-data-science/9781491912126/): Intro to iPython, NumPy, Pandas, Matplotlib, and Scikit-Learn.
 - `Book` [**Practical Statistics for Data Scientists (2nd Edition)**](https://learning.oreilly.com/library/view/practical-statistics-for/9781492072935/): Guidance on applying statistical methods to data science.
 - `Course` [**A/B Testing, A Data Science Perspective**](https://learning.oreilly.com/videos/a-b-testing-a/9781491934777/): Guide to designing and executing statistically sound A/B tests.
