@@ -1,5 +1,5 @@
 # Awesome Data Science and Coding Resources 
-My personally curated list of awesome books, courses, and other resources.
+Curated list of awesome books I've read, courses I've completed, and other resources I use.
 
 ## Data Analysis and Engineering
 - `Book` [**Python for Data Analysis (3rd Edition)**](https://learning.oreilly.com/library/view/python-for-data/9781098104023/): Data analysis handbook.
