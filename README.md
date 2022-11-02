@@ -16,7 +16,7 @@ Curated list of awesome books I've read, courses I've completed, and other resou
 
 ## Developer Surveys
 - `Publication` [**Stack Overflow Annual Developer Survey**](https://insights.stackoverflow.com/survey): Examines all aspects of the developer experience.
-- `Publication` [**JetBrains Python Developer Survey**](https://www.jetbrains.com/resources/industry-reports/): Reveal the current state of pythton and the ecosystem around it.
+- `Publication` [**JetBrains Python Developer Survey**](https://www.jetbrains.com/resources/industry-reports/): Reveal the current state of python and the ecosystem around it.
 
 ## Git
 - `Book` [**Git for Programmers**](https://learning.oreilly.com/library/view/git-for-programmers/9781801075732/): Ultimate guide to git.
