@@ -23,6 +23,7 @@ My personally curated list of awesome books, courses, and other resources.
 - `Book` [**Practical Statistics for Data Scientists (2nd Edition)**](https://learning.oreilly.com/library/view/practical-statistics-for/9781492072935/): Guidance on applying statistical methods to data science.
 - `Course` [**A/B Testing, A Data Science Perspective**](https://learning.oreilly.com/videos/a-b-testing-a/9781491934777/): Guide to designing and executing statistically sound A/B tests.
 - `Resource` [**Machine Learning Mastery**](https://machinelearningmastery.com/start-here): Online machine learning guides and tutorials.
+- `Publication` [**Towards Data Science**](https://towardsdatascience.com): Medium publication sharing data science concepts, ideas, and codes.
 
 ## Programming Fundamentals
 - `Book` [**The Linux Command Line (2nd Edition)**](https://learning.oreilly.com/library/view/the-linux-command/9781492071235/): Command line fundamentals.
