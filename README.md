@@ -1,13 +1,14 @@
 # Awesome Data Science and Coding Resources 
 My personally curated list of awesome books, courses, and other resources.
 
-## Apps
+## OS Apps and Tools
 - `App` [Anki](https://apps.ankiweb.net): A program which makes remembering things easy. Here's a [primer](http://augmentingcognition.com/ltm.html).
 - `App` [Boop](https://boop.okat.best): Run scripts on some text.
 - `App` [iTerm2](https://iterm2.com): macOS Terminal replacement.
 - `App` [Magnet](https://magnet.crowdcafe.com): A window manager for macOS.
 - `App` [Things](https://culturedcode.com/things/): A beautiful task manager for macOS & iOS.
 - `App` [Typinator](https://www.ergonis.com/products/typinator/): Automates the process of inserting frequently used text/code.
+- `App` [Visual Studio Code](https://code.visualstudio.com/): Free coding editor with support for many languages.
 
 ## Data Analysis and Engineering
 - `Book` [**Python for Data Analysis (3rd Edition)**](https://learning.oreilly.com/library/view/python-for-data/9781098104023/): Data analysis handbook.
@@ -36,6 +37,15 @@ My personally curated list of awesome books, courses, and other resources.
 - `Library` [**Scikit-Learn**](https://scikit-learn.org/stable/): Machine learning and predictive data analysis.
 - `Publication` [**Towards Data Science**](https://towardsdatascience.com): Medium publication sharing data science concepts, ideas, and codes.
 - `Resource` [**Machine Learning Mastery**](https://machinelearningmastery.com/start-here): Online machine learning guides and tutorials.
+
+## Oh My Zsh
+- `Framework` [**Oh My Zsh**](https://ohmyz.sh): A delightful, open source, community-driven framework for managing Zsh configuration.
+- `Plugin` [git](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git): Provides many aliases and a few useful functions.
+- `Plugin` [macos](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/macos): Provides a few utilities to make it more enjoyable on macOS.
+- `Plugin` [vscode](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/vscode): Provides many aliases to simplify the interaction between the command line and VS Code
+- `Plugin` [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions): Suggests commands as you type based on history and completions.
+- `Plugin` [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting): Provides syntax highlighting for Zsh.
+- `Plugin` [zsh-safe-rm](https://github.com/mattmc3/zsh-safe-rm): Put files in your OS's trash instead of permanently deleting them.
 
 ## Programming Fundamentals
 - `Book` [**The Linux Command Line (2nd Edition)**](https://learning.oreilly.com/library/view/the-linux-command/9781492071235/): Command line fundamentals.
@@ -66,12 +76,3 @@ My personally curated list of awesome books, courses, and other resources.
 - `Library` [**Gazpacho**](https://gazpacho.xyz/#about): A simple, fast, and modern web scraping library.
 - `Library` [**Selenium**](https://www.selenium.dev): Web browser automation.
 - `Library` [**Scrapy**](https://scrapy.org): Framework for extracting data from websites.
-
-## Oh My Zsh
-- `Framework` [**Oh My Zsh**](https://ohmyz.sh): A delightful, open source, community-driven framework for managing Zsh configuration.
-- `Plugin` [git](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git): Provides many aliases and a few useful functions.
-- `Plugin` [macos](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/macos): Provides a few utilities to make it more enjoyable on macOS.
-- `Plugin` [vscode](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/vscode): Provides many aliases to simplify the interaction between the command line and VS Code
-- `Plugin` [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting): Provides syntax highlighting for Zsh.
-- `Plugin` [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions): Suggests commands as you type based on history and completions.
-- `Plugin` [zsh-safe-rm](https://github.com/mattmc3/zsh-safe-rm): Put files in your OS's trash instead of permanently deleting them.
