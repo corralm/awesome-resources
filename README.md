@@ -1,4 +1,4 @@
-# Awesome Data Science and Coding Resources 
+# Awesome Data Science Resources 
 Curated list of awesome books I've read, courses I've completed, and other resources I use.
 
 ## Data Analysis and Engineering
