@@ -1,7 +1,7 @@
 # Awesome Data Science and Coding Resources 
 My personally curated list of awesome books, courses, and other resources.
 
-## OS Apps and Tools
+## Apps
 - `App` [Anki](https://apps.ankiweb.net): A program which makes remembering things easy. Here's a [primer](http://augmentingcognition.com/ltm.html).
 - `App` [Boop](https://boop.okat.best): Run scripts on some text.
 - `App` [iTerm2](https://iterm2.com): macOS Terminal replacement.
