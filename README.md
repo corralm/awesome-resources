@@ -15,8 +15,8 @@ Curated list of awesome books I've read, courses I've completed, and other resou
 - `Resource` [**Tableau Visual Vocabulary**](https://public.tableau.com/app/profile/andy.kriebel/viz/VisualVocabulary/VisualVocabulary): Types of charts within Tableau.
 
 ## Developer Surveys
-- `Publication` [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey): Examines all aspects of the developer experience.
-- `Publication` [JetBrains Python Developer Survey](https://www.jetbrains.com/resources/industry-reports/): Reveal the current state of pythton and the ecosystem around it.
+- `Publication` [**Stack Overflow Annual Developer Survey**](https://insights.stackoverflow.com/survey): Examines all aspects of the developer experience.
+- `Publication` [**JetBrains Python Developer Survey**](https://www.jetbrains.com/resources/industry-reports/): Reveal the current state of pythton and the ecosystem around it.
 
 ## Git
 - `Book` [**Git for Programmers**](https://learning.oreilly.com/library/view/git-for-programmers/9781801075732/): Ultimate guide to git.
@@ -35,23 +35,23 @@ Curated list of awesome books I've read, courses I've completed, and other resou
 
 ## Oh My Zsh
 - `Framework` [**Oh My Zsh**](https://ohmyz.sh): A delightful, open source, community-driven framework for managing Zsh configuration.
-- `Plugin` [git](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git): Provides many aliases and a few useful functions.
-- `Plugin` [macos](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/macos): Provides a few utilities to make it more enjoyable on macOS.
-- `Plugin` [vscode](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/vscode): Provides many aliases to simplify the interaction between the command line and VS Code
-- `Plugin` [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions): Suggests commands as you type based on history and completions.
-- `Plugin` [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting): Provides syntax highlighting for Zsh.
-- `Plugin` [zsh-safe-rm](https://github.com/mattmc3/zsh-safe-rm): Put files in your OS's trash instead of permanently deleting them.
+- `Plugin` [**git**](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git): Provides many aliases and a few useful functions.
+- `Plugin` [**macos**](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/macos): Provides a few utilities to make it more enjoyable on macOS.
+- `Plugin` [**vscode**](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/vscode): Provides many aliases to simplify the interaction between the command line and VS Code
+- `Plugin` [**zsh-autosuggestions**](https://github.com/zsh-users/zsh-autosuggestions): Suggests commands as you type based on history and completions.
+- `Plugin` [**zsh-syntax-highlighting**](https://github.com/zsh-users/zsh-syntax-highlighting): Provides syntax highlighting for Zsh.
+- `Plugin` [**zsh-safe-rm**](https://github.com/mattmc3/zsh-safe-rm): Put files in your OS's trash instead of permanently deleting them.
 
 ## Productivity Apps
-- `App` [Anki](https://apps.ankiweb.net): A program which makes remembering things easy. Here's a [primer](http://augmentingcognition.com/ltm.html).
-- `App` [Boop](https://boop.okat.best): Run scripts on some text.
-- `App` [Magnet](https://magnet.crowdcafe.com): A window manager for macOS.
-- `App` [Things](https://culturedcode.com/things/): A beautiful task manager for macOS & iOS.
-- `App` [Typinator](https://www.ergonis.com/products/typinator/): Automates the process of inserting frequently used text/code.
+- `App` [**Anki**](https://apps.ankiweb.net): A program which makes remembering things easy. Here's a [primer](http://augmentingcognition.com/ltm.html).
+- `App` [**Boop**](https://boop.okat.best): Run scripts on some text.
+- `App` [**Magnet**](https://magnet.crowdcafe.com): A window manager for macOS.
+- `App` [**Things**](https://culturedcode.com/things/): A beautiful task manager for macOS & iOS.
+- `App` [**Typinator**](https://www.ergonis.com/products/typinator/): Automates the process of inserting frequently used text/code.
 
 ## Programming Fundamentals
-- `App` [iTerm2](https://iterm2.com): macOS Terminal replacement.
-- `App` [Visual Studio Code](https://code.visualstudio.com/): Free coding editor with support for many languages.
+- `App` [**iTerm2**](https://iterm2.com): macOS Terminal replacement.
+- `App` [**Visual Studio Code**](https://code.visualstudio.com/): Free coding editor with support for many languages.
 - `Book` [**The Linux Command Line (2nd Edition)**](https://learning.oreilly.com/library/view/the-linux-command/9781492071235/): Command line fundamentals.
 - `Book` [**A Common-Sense Guide to Data Structures and Algorithms**](https://learning.oreilly.com/library/view/a-common-sense-guide/9781680502794/): Practival DSA guide.
 - `Resource` [**W3Schools**](https://www.w3schools.com): The largest web developer site on the internet.
