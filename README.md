@@ -7,7 +7,7 @@ My personally curated list of awesome books, courses, and other resources.
 - `App` [iTerm2](https://iterm2.com): macOS Terminal replacement.
 - `App` [Magnet](https://magnet.crowdcafe.com): A window manager for macOS.
 - `App` [Things](https://culturedcode.com/things/): A beautiful task manager for macOS & iOS.
-- `App` [Typinator](https://www.ergonis.com/products/typinator/): Automates the process of inserting frequently used text.
+- `App` [Typinator](https://www.ergonis.com/products/typinator/): Automates the process of inserting frequently used text/code.
 
 ## Data Analysis and Engineering
 - `Book` [**Python for Data Analysis (3rd Edition)**](https://learning.oreilly.com/library/view/python-for-data/9781098104023/): Data analysis handbook.
