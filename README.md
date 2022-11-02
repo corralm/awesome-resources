@@ -40,7 +40,6 @@ My personally curated list of awesome books, courses, and other resources.
 ## Programming Fundamentals
 - `Book` [**The Linux Command Line (2nd Edition)**](https://learning.oreilly.com/library/view/the-linux-command/9781492071235/): Command line fundamentals.
 - `Book` [**A Common-Sense Guide to Data Structures and Algorithms**](https://learning.oreilly.com/library/view/a-common-sense-guide/9781680502794/): Practival DSA guide.
-- `Framework` [**Oh My Zsh**](https://ohmyz.sh): A delightful, open source, community-driven framework for managing Zsh configuration.
 - `Resource` [**W3Schools**](https://www.w3schools.com): The largest web developer site on the internet.
 
 ## Project Management
@@ -69,9 +68,10 @@ My personally curated list of awesome books, courses, and other resources.
 - `Library` [**Scrapy**](https://scrapy.org): Framework for extracting data from websites.
 
 ## Oh My Zsh
+- `Framework` [**Oh My Zsh**](https://ohmyz.sh): A delightful, open source, community-driven framework for managing Zsh configuration.
 - `Plugin` [git](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git): Provides many aliases and a few useful functions.
 - `Plugin` [macos](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/macos): Provides a few utilities to make it more enjoyable on macOS.
 - `Plugin` [vscode](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/vscode): Provides many aliases to simplify the interaction between the command line and VS Code
-- `Plugin` [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting): Provides syntax highlighting for zsh.
+- `Plugin` [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting): Provides syntax highlighting for Zsh.
 - `Plugin` [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions): Suggests commands as you type based on history and completions.
 - `Plugin` [zsh-safe-rm](https://github.com/mattmc3/zsh-safe-rm): Put files in your OS's trash instead of permanently deleting them.
