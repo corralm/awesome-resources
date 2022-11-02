@@ -31,6 +31,7 @@ Curated list of awesome books I've read, courses I've completed, and other resou
 - `Course` [**A/B Testing, A Data Science Perspective**](https://learning.oreilly.com/videos/a-b-testing-a/9781491934777/): Guide to designing and executing statistically sound A/B tests.
 - `Library` [**Scikit-Learn**](https://scikit-learn.org/stable/): Machine learning and predictive data analysis.
 - `Publication` [**Towards Data Science**](https://towardsdatascience.com): Medium publication sharing data science concepts, ideas, and codes.
+- `Kaggle` [**Kagle**](https://www.kaggle.com/): Machine learning and data science community.
 - `Resource` [**Machine Learning Mastery**](https://machinelearningmastery.com/start-here): Online machine learning guides and tutorials.
 
 ## Oh My Zsh
