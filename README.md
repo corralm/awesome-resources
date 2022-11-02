@@ -38,7 +38,7 @@ Curated list of awesome books I've read, courses I've completed, and other resou
 - `Framework` [**Oh My Zsh**](https://ohmyz.sh): A delightful, open source, community-driven framework for managing Zsh configuration.
 - `Plugin` [**git**](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git): Provides many aliases and a few useful functions.
 - `Plugin` [**macos**](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/macos): Provides a few utilities to make it more enjoyable on macOS.
-- `Plugin` [**vscode**](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/vscode): Provides many aliases to simplify the interaction between the command line and VS Code
+- `Plugin` [**vscode**](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/vscode): Provides many aliases to simplify the interaction between the command line and VS Code.
 - `Plugin` [**zsh-autosuggestions**](https://github.com/zsh-users/zsh-autosuggestions): Suggests commands as you type based on history and completions.
 - `Plugin` [**zsh-syntax-highlighting**](https://github.com/zsh-users/zsh-syntax-highlighting): Provides syntax highlighting for Zsh.
 - `Plugin` [**zsh-safe-rm**](https://github.com/mattmc3/zsh-safe-rm): Put files in your OS's trash instead of permanently deleting them.
