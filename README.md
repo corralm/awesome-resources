@@ -54,7 +54,7 @@ Curated list of awesome books I've read, courses I've completed, and other resou
 - `App` [**iTerm2**](https://iterm2.com): macOS Terminal replacement.
 - `App` [**Visual Studio Code**](https://code.visualstudio.com/): Free coding editor with support for many languages.
 - `Book` [**The Linux Command Line (2nd Edition)**](https://learning.oreilly.com/library/view/the-linux-command/9781492071235/): Command line fundamentals.
-- `Book` [**A Common-Sense Guide to Data Structures and Algorithms**](https://learning.oreilly.com/library/view/a-common-sense-guide/9781680502794/): Practival DSA guide.
+- `Book` [**A Common-Sense Guide to Data Structures and Algorithms**](https://learning.oreilly.com/library/view/a-common-sense-guide/9781680502794/): Practical DSA guide.
 - `Resource` [**W3Schools**](https://www.w3schools.com): The largest web developer site on the internet.
 
 ## Project Management
