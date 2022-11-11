@@ -81,6 +81,7 @@ Curated list of awesome books I've read, courses I've completed, and other resou
 - `Book` [**OpenIntro Statistics**](https://www.openintro.org/book/os/): Comprehensive statistics textbook with real-world examples.
 - `Book` [**Practical Statistics for Data Scientists (2nd Edition)**](https://learning.oreilly.com/library/view/practical-statistics-for/9781492072935/): Guidance on applying statistical methods to data science.
 - `Course` [**A/B Testing, A Data Science Perspective**](https://learning.oreilly.com/videos/a-b-testing-a/9781491934777/): Guide to designing and executing statistically sound A/B tests.
+- `Resource` [**Khan Academy**](https://www.khanacademy.org/): Short video lessons including statistics, probablity, algebra, and more.
 
 ## Web Scraping
 - `Book` [**Web Scraping with Python (2nd Edition)**](https://learning.oreilly.com/library/view/web-scraping-with/9781491985564/): Web scraping handbook.
