@@ -25,12 +25,9 @@ Curated list of awesome books I've read, courses I've completed, and other resou
 - `Course` [**Git Essentials LiveLessons**](https://learning.oreilly.com/videos/git-essentials-livelessons/9780134655284/): Step-by-step git lessons.
 - `Resource` [**Git Commit Types**](https://github.com/pvdlg/conventional-changelog-metahub#commit-types): List of conventional commit types.
 
-## Machine Learning and Statistics
+## Machine Learning
 - `Book` [**Hands-On Machine Learning (2nd Edition)**](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/): Machine learning handbook with examples.
-- `Book` [**OpenIntro Statistics**](https://www.openintro.org/book/os/): Comprehensive statistics textbook with real-world examples.
 - `Book` [**Python Data Science Handbook**](https://learning.oreilly.com/library/view/python-data-science/9781491912126/): Intro to iPython, NumPy, Pandas, Matplotlib, and Scikit-Learn.
-- `Book` [**Practical Statistics for Data Scientists (2nd Edition)**](https://learning.oreilly.com/library/view/practical-statistics-for/9781492072935/): Guidance on applying statistical methods to data science.
-- `Course` [**A/B Testing, A Data Science Perspective**](https://learning.oreilly.com/videos/a-b-testing-a/9781491934777/): Guide to designing and executing statistically sound A/B tests.
 - `Library` [**Scikit-Learn**](https://scikit-learn.org/stable/): Machine learning and predictive data analysis.
 - `Publication` [**Towards Data Science**](https://towardsdatascience.com): Medium publication sharing data science concepts, ideas, and codes.
 - `Resource` [**Kaggle**](https://www.kaggle.com/): Machine learning and data science community.
@@ -79,6 +76,11 @@ Curated list of awesome books I've read, courses I've completed, and other resou
 ## SQL
 - `App` [**TablePlus**](https://tableplus.com/): Modern, native, and friendly GUI tool for relational databases.
 - `Book` [**SQL Pocket Guide (4th Edition)**](https://learning.oreilly.com/library/view/sql-pocket-guide/9781492090397/): Popular SQL pocket guide.
+
+## Statistics
+- `Book` [**OpenIntro Statistics**](https://www.openintro.org/book/os/): Comprehensive statistics textbook with real-world examples.
+- `Book` [**Practical Statistics for Data Scientists (2nd Edition)**](https://learning.oreilly.com/library/view/practical-statistics-for/9781492072935/): Guidance on applying statistical methods to data science.
+- `Course` [**A/B Testing, A Data Science Perspective**](https://learning.oreilly.com/videos/a-b-testing-a/9781491934777/): Guide to designing and executing statistically sound A/B tests.
 
 ## Web Scraping
 - `Book` [**Web Scraping with Python (2nd Edition)**](https://learning.oreilly.com/library/view/web-scraping-with/9781491985564/): Web scraping handbook.
