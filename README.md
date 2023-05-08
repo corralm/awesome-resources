@@ -76,6 +76,7 @@ Curated list of awesome books I've read, courses I've completed, and other resou
 ## SQL
 - `App` [**TablePlus**](https://tableplus.com/): Modern, native, and friendly GUI tool for relational databases.
 - `Book` [**SQL Pocket Guide (4th Edition)**](https://learning.oreilly.com/library/view/sql-pocket-guide/9781492090397/): Popular SQL pocket guide.
+- `Book` [**Learning SQL (3rd Edition)**](https://learning.oreilly.com/library/view/learning-sql-3rd/9781492057604/): Learn SQL fundamentals.
 
 ## Statistics
 - `Book` [**OpenIntro Statistics**](https://www.openintro.org/book/os/): Comprehensive statistics textbook with real-world examples.
