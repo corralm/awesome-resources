@@ -36,8 +36,8 @@ A curated list of awesome books I've read, courses I've completed, and other res
 - `Course` [**AI for Everyone**](https://www.coursera.org/learn/ai-for-everyone): Overview of everything AI.
 - `Course` [**Building Systems With The ChatGPT API**](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/): Learn how to chain calls to a LLM.
 - `Course` [**ChatGPT Prompt Engineering for Developers**](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/): Intro to using the ChatGPT API.
-- `Course` [**AI and Public Health**](https://www.coursera.org/learn/ai-and-public-health): Learn a framework for contributing to AI-powered initiatives that create positive change.
-- `Course` [**Prompt Engineering for ChatGPT**](https://www.coursera.org/learn/prompt-engineering/): Learn various prompt patterns to fully leverage the capabilities of LLMs. 
+- `Course` [**AI and Public Health**](https://www.coursera.org/learn/ai-and-public-health): Learn to apply a framework for AI initiatives.
+- `Course` [**Prompt Engineering for ChatGPT**](https://www.coursera.org/learn/prompt-engineering/): Discover various prompt patterns to fully leverage LLMs. 
 - `Report` [**AI Fairness**](https://learning.oreilly.com/library/view/ai-fairness/9781492077664/): Explore how to approach fairness and bias.
 
 ## Git
