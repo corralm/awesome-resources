@@ -23,12 +23,8 @@ A curated list of awesome books I've read, courses I've completed, and other res
 - `Library` [**Plotly**](https://plotly.com/python/): Python graphing library for interactive and publication-quality graphs.
 - `Resource` [**Tableau Visual Vocabulary**](https://public.tableau.com/app/profile/andy.kriebel/viz/VisualVocabulary/VisualVocabulary): Types of charts within Tableau.
 
-## Workflow Engineering
-- `Book` [**The Phoenix Project**](https://itrevolution.com/product/the-phoenix-project/): A novel about IT and DevOps
-- `Book` [**Workflow Modeling**](https://www.amazon.com/Workflow-Modeling-Improvement-Application-Development/dp/1596931922): Tools for process improvement and application development.
-
 ## Developer Surveys
-- `Publication` [**JetBrains Python Developer Survey**](https://www.jetbrains.com/resources/industry-reports/): Reveal the current state of python and the ecosystem around it.
+- `Publication` [**JetBrains Python Developer Survey**](https://www.jetbrains.com/resources/industry-reports/): Reveal the current state of Python.
 - `Publication` [**Stack Overflow Annual Developer Survey**](https://insights.stackoverflow.com/survey): Examines all aspects of the developer experience.
 
 ## Generative AI
@@ -48,7 +44,7 @@ A curated list of awesome books I've read, courses I've completed, and other res
 - `Resource` [**Git Commit Types**](https://github.com/pvdlg/conventional-changelog-metahub#commit-types): List of conventional commit types.
 
 ## Oh My Zsh
-- `Framework` [**Oh My Zsh**](https://ohmyz.sh): A delightful, open source, community-driven framework for managing Zsh configuration.
+- `Framework` [**Oh My Zsh**](https://ohmyz.sh): An open source framework for managing Zsh configuration.
 - `Plugin` [**git**](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git): Provides many aliases and a few useful functions.
 - `Plugin` [**macos**](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/macos): Provides a few utilities to make it more enjoyable on macOS.
 - `Plugin` [**vscode**](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/vscode): Provides many aliases to simplify the interaction between the command line and VS Code.
@@ -77,14 +73,14 @@ A curated list of awesome books I've read, courses I've completed, and other res
 
 ## Python
 - `App` [**PyCharm**](https://www.jetbrains.com/pycharm/): The Python IDE for Professional Developers.
-- `Book` [**Learn Python 3 the Hard Way**](https://learning.oreilly.com/library/view/learn-python-3/9780134693866/): Learn python by typing code precisely.
+- `Book` [**Learn Python 3 the Hard Way**](https://learning.oreilly.com/library/view/learn-python-3/9780134693866/): Learn Python by typing code precisely.
 - `Book` [**Python Testing with pytest**](https://learning.oreilly.com/library/view/python-testing-with/9781680509427/): Step-by-step instructions and sample code for pytest.
 - `Book` [**Python Crash Course (2nd Edition)**](https://learning.oreilly.com/library/view/python-crash-course/9781492071266/): Python fundamentals.
 - `Course` [**Effective Python**](https://learning.oreilly.com/videos/effective-python/9780134175249/): Lessons to writing programs the Pythonic way.
 - `Course` [**Python Fundamentals**](https://learning.oreilly.com/videos/python-fundamentals/9780135917411/): Code-oriented presentation of Python.
 - `Framework` [**Miniconda**](https://docs.conda.io/en/latest/miniconda.html): A small, bootstrap version of Anaconda.
 - `Resource` [**Python Morsels**](https://www.pythonmorsels.com): Learn to write better Python code.
-- `Resource` [**Real Python**](https://realpython.com): Online python tutorials, video courses, news, and more.
+- `Resource` [**Real Python**](https://realpython.com): Online Python tutorials, video courses, news, and more.
 
 ## SQL
 - `App` [**TablePlus**](https://tableplus.com/): Modern, native, and friendly GUI tool for relational databases.
@@ -94,7 +90,7 @@ A curated list of awesome books I've read, courses I've completed, and other res
 
 ## Statistics
 - `Book` [**OpenIntro Statistics**](https://www.openintro.org/book/os/): Comprehensive statistics textbook with real-world examples.
-- `Book` [**Practical Statistics for Data Scientists (2nd Edition)**](https://learning.oreilly.com/library/view/practical-statistics-for/9781492072935/): Guidance on applying statistical methods to data science.
+- `Book` [**Practical Statistics for Data Scientists (2nd Edition)**](https://learning.oreilly.com/library/view/practical-statistics-for/9781492072935/): Statistical methods for data science.
 - `Course` [**A/B Testing, A Data Science Perspective**](https://learning.oreilly.com/videos/a-b-testing-a/9781491934777/): Guide to designing and executing statistically sound A/B tests.
 - `Resource` [**Khan Academy**](https://www.khanacademy.org/): Short video lessons including statistics, probablity, algebra, and more.
 
@@ -104,3 +100,7 @@ A curated list of awesome books I've read, courses I've completed, and other res
 - `Library` [**Gazpacho**](https://gazpacho.xyz/#about): A simple, fast, and modern web scraping library.
 - `Library` [**Selenium**](https://www.selenium.dev): Web browser automation.
 - `Library` [**Scrapy**](https://scrapy.org): Framework for extracting data from websites.
+
+## Workflow Engineering
+- `Book` [**The Phoenix Project**](https://itrevolution.com/product/the-phoenix-project/): A novel about IT and DevOps
+- `Book` [**Workflow Modeling**](https://www.amazon.com/Workflow-Modeling-Improvement-Application-Development/dp/1596931922): Tools for process improvement and application development.
