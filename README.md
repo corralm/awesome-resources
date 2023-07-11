@@ -102,5 +102,5 @@ A curated list of awesome books I've read, courses I've completed, and other res
 - `Library` [**Scrapy**](https://scrapy.org): Framework for extracting data from websites.
 
 ## Workflow Engineering
-- `Book` [**The Phoenix Project**](https://itrevolution.com/product/the-phoenix-project/): A novel about IT and DevOps
+- `Book` [**The Phoenix Project**](https://itrevolution.com/product/the-phoenix-project/): A novel about IT and DevOps.
 - `Book` [**Workflow Modeling**](https://www.amazon.com/Workflow-Modeling-Improvement-Application-Development/dp/1596931922): Tools for process improvement and application development.
