@@ -1,6 +1,17 @@
 # Awesome Data Science Resources 
 A curated list of awesome books I've read, courses I've completed, and other resources I use.
 
+## Artificial Intelligence
+- `Book` [**Atlas of AI**](https://katecrawford.net): Ethics, power, politics, and the planetary costs of AI.
+- `Course` [**AI for Everyone**](https://www.coursera.org/learn/ai-for-everyone): Overview of everything AI.
+- `Course` [**Building Systems With The ChatGPT API**](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/): Learn how to chain calls to a LLM.
+- `Course` [**ChatGPT Prompt Engineering for Developers**](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/): Intro to using the ChatGPT API.
+- `Course` [**AI and Public Health**](https://www.coursera.org/learn/ai-and-public-health): Learn to apply a framework for AI initiatives.
+- `Course` [**LangChain for LLM Application Development**](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/): Learn to expand the capabilities of LLMs.
+- `Course` [**LangChain: Chat with Your Data**](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/): Learn to build a system with local data.
+- `Course` [**Prompt Engineering for ChatGPT**](https://www.coursera.org/learn/prompt-engineering/): Discover various prompt patterns to fully leverage LLMs. 
+- `Report` [**AI Fairness**](https://learning.oreilly.com/library/view/ai-fairness/9781492077664/): Explore how to approach fairness and bias.
+
 ## Data Analysis and Engineering
 - `Book` [**Python for Data Analysis (3rd Edition)**](https://learning.oreilly.com/library/view/python-for-data/9781098104023/): Data analysis handbook.
 - `Event` [**Data Engineering for Data Scientists**](https://learning.oreilly.com/live-events/data-engineering-for-data-scientists/0636920303039/0636920053608/): Automating data pipeline workflows.
@@ -26,15 +37,6 @@ A curated list of awesome books I've read, courses I've completed, and other res
 ## Developer Surveys
 - `Publication` [**JetBrains Python Developer Survey**](https://www.jetbrains.com/resources/industry-reports/): Reveal the current state of Python.
 - `Publication` [**Stack Overflow Annual Developer Survey**](https://insights.stackoverflow.com/survey): Examines all aspects of the developer experience.
-
-## Generative AI
-- `Book` [**Atlas of AI**](https://katecrawford.net): Ethics, power, politics, and the planetary costs of AI.
-- `Course` [**AI for Everyone**](https://www.coursera.org/learn/ai-for-everyone): Overview of everything AI.
-- `Course` [**Building Systems With The ChatGPT API**](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/): Learn how to chain calls to a LLM.
-- `Course` [**ChatGPT Prompt Engineering for Developers**](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/): Intro to using the ChatGPT API.
-- `Course` [**AI and Public Health**](https://www.coursera.org/learn/ai-and-public-health): Learn to apply a framework for AI initiatives.
-- `Course` [**Prompt Engineering for ChatGPT**](https://www.coursera.org/learn/prompt-engineering/): Discover various prompt patterns to fully leverage LLMs. 
-- `Report` [**AI Fairness**](https://learning.oreilly.com/library/view/ai-fairness/9781492077664/): Explore how to approach fairness and bias.
 
 ## Git
 - `Article` [**How to Write a Git Commit Message**](https://cbea.ms/git-commit/): Commit messages matter. Here's how to write them well.
