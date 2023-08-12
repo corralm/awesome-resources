@@ -4,6 +4,7 @@ A curated list of awesome books I've read, courses I've completed, and other res
 ## Artificial Intelligence
 - `Book` [**Atlas of AI**](https://katecrawford.net): Ethics, power, politics, and the planetary costs of AI.
 - `Course` [**AI for Everyone**](https://www.coursera.org/learn/ai-for-everyone): Overview of everything AI.
+- `Course` [**Building Generative AI Applications with Gradio**](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/): Quickly share ML apps.
 - `Course` [**Building Systems With The ChatGPT API**](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/): Learn how to chain calls to a LLM.
 - `Course` [**ChatGPT Prompt Engineering for Developers**](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/): Intro to using the ChatGPT API.
 - `Course` [**AI and Public Health**](https://www.coursera.org/learn/ai-and-public-health): Learn to apply a framework for AI initiatives.
