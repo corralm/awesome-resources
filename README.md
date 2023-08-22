@@ -76,7 +76,6 @@ A curated list of awesome books I've read, courses I've completed, and other res
 
 ## Python
 - `App` [**PyCharm**](https://www.jetbrains.com/pycharm/): The Python IDE for Professional Developers.
-- `Book` [**Learn Python 3 the Hard Way**](https://learning.oreilly.com/library/view/learn-python-3/9780134693866/): Learn Python by typing code precisely.
 - `Book` [**Python Testing with pytest**](https://learning.oreilly.com/library/view/python-testing-with/9781680509427/): Step-by-step instructions and sample code for pytest.
 - `Book` [**Python Crash Course (2nd Edition)**](https://learning.oreilly.com/library/view/python-crash-course/9781492071266/): Python fundamentals.
 - `Course` [**Effective Python**](https://learning.oreilly.com/videos/effective-python/9780134175249/): Lessons to writing programs the Pythonic way.
