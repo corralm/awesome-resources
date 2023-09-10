@@ -4,10 +4,11 @@ A curated list of awesome books I've read, courses I've completed, and other res
 ## Artificial Intelligence
 - `Book` [**Atlas of AI**](https://katecrawford.net): Ethics, power, politics, and the planetary costs of AI.
 - `Course` [**AI for Everyone**](https://www.coursera.org/learn/ai-for-everyone): Overview of everything AI.
+- `Course` [**AI and Public Health**](https://www.coursera.org/learn/ai-and-public-health): Learn to apply a framework for AI initiatives.
 - `Course` [**Building Generative AI Applications with Gradio**](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/): Quickly share ML apps.
 - `Course` [**Building Systems With The ChatGPT API**](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/): Learn how to chain calls to a LLM.
 - `Course` [**ChatGPT Prompt Engineering for Developers**](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/): Intro to using the ChatGPT API.
-- `Course` [**AI and Public Health**](https://www.coursera.org/learn/ai-and-public-health): Learn to apply a framework for AI initiatives.
+- `Course` [**Generative AI with Large Language Models**](https://www.coursera.org/learn/generative-ai-with-llms): Explore the generative AI lifecycle.
 - `Course` [**LangChain for LLM Application Development**](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/): Expand the capabilities of LLMs.
 - `Course` [**LangChain: Chat with Your Data**](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/): Learn to build a system with local data.
 - `Course` [**Prompt Engineering for ChatGPT**](https://www.coursera.org/learn/prompt-engineering/): Discover various prompt patterns to fully leverage LLMs. 
