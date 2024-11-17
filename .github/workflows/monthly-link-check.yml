@@ -4,8 +4,8 @@ name: Monthly Link Checker
 on:
   schedule:
     # Runs at 00:00 on the first day of every month
-    - cron: '0 0 1 * *'
-  workflow_dispatch:  # Allows manual triggering of the workflow if needed
+    - cron: "0 0 1 * *"
+  workflow_dispatch: # Allows manual triggering of the workflow if needed
 
 jobs:
   link-check:
@@ -20,7 +20,7 @@ jobs:
       - name: Set up Python environment
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
+          python-version: "3.9"
 
       # Step 3: Install dependencies
       - name: Install dependencies
@@ -29,5 +29,7 @@ jobs:
           pip install requests
 
       # Step 4: Run the link checker script
+        # If your script is in the root directory
+        # Adjust the path if the script is in a subdirectory
       - name: Run link checker script
         run: python link_checker.py
