@@ -100,7 +100,6 @@ A curated list of awesome books I've read, courses I've completed, and other res
 ## Web Scraping
 - `Book` [**Web Scraping with Python (2nd Edition)**](https://learning.oreilly.com/library/view/web-scraping-with/9781491985564/): Web scraping handbook.
 - `Event` [**Advanced Web Scraping**](https://learning.oreilly.com/live-events/advanced-web-scraping/0636920376163/0636920412489/): Learn about scheduling and Selenium.
-- `Library` [**Gazpacho**](https://gazpacho.xyz/#about): A simple, fast, and modern web scraping library.
 - `Library` [**Selenium**](https://www.selenium.dev): Web browser automation.
 - `Library` [**Scrapy**](https://scrapy.org): Framework for extracting data from websites.
 
