@@ -32,4 +32,4 @@ jobs:
         # If your script is in the root directory
         # Adjust the path if the script is in a subdirectory
       - name: Run link checker script
-        run: python link_checker.py
+        run: python link-checker.py
