@@ -20,7 +20,7 @@ jobs:
       - name: Set up Python environment
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'  # Replace '3.x' with the version you need
+          python-version: '3.9'
 
       # Step 3: Install dependencies
       - name: Install dependencies
