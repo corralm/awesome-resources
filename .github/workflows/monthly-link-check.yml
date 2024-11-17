@@ -2,55 +2,34 @@ name: Monthly Link Checker
 
 # Controls when the workflow will run
 on:
-<<<<<<< HEAD
   schedule:
     # Runs at 00:00 on the first day of every month
     - cron: "0 0 1 * *"
   workflow_dispatch: # Allows manual triggering of the workflow if needed
-=======
-schedule:
-  # Runs at 00:00 on the first day of every month
-  - cron: "0 0 1 * *"
-workflow_dispatch: # Allows manual triggering of the workflow if needed
->>>>>>> origin/main
 
 jobs:
-link-check:
-runs-on: ubuntu-latest
+  link-check:
+    runs-on: ubuntu-latest
 
-steps:
-  # Step 1: Check out the repository
-  - name: Check out repository code
-    uses: actions/checkout@v3
+    steps:
+      # Step 1: Check out the repository
+      - name: Check out repository code
+        uses: actions/checkout@v3
 
-<<<<<<< HEAD
       # Step 2: Set up Python
       - name: Set up Python environment
         uses: actions/setup-python@v4
         with:
           python-version: "3.9"
-=======
-  # Step 2: Set up Python
-  - name: Set up Python environment
-    uses: actions/setup-python@v4
-    with:
-      python-version: "3.9"
->>>>>>> origin/main
 
-  # Step 3: Install dependencies
-  - name: Install dependencies
-    run: |
-      python -m pip install --upgrade pip
-      pip install requests
+      # Step 3: Install dependencies
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
 
-<<<<<<< HEAD
       # Step 4: Run the link checker script
         # If your script is in the root directory
         # Adjust the path if the script is in a subdirectory
       - name: Run link checker script
         run: python link_checker.py
-=======
-  # Step 4: Run the link checker script
-  - name: Run link checker script
-    run: python link_checker.py
->>>>>>> origin/main
