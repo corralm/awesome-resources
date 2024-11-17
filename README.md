@@ -72,7 +72,6 @@ A curated list of awesome books I've read, courses I've completed, and other res
 ## Project Management
 - `Book` [**Agile Practical Guide**](https://learning.oreilly.com/library/view/agile-practice-guide/9781628253993/): Agile guide created by the Project Management Institute and Agile Alliance.
 - `Book` [**Mastering the Requirement Process**](https://www.amazon.com/Mastering-Requirements-Process-Getting-Right/dp/0321815742): Getting requirements right.
-- `Book` [**PMBOK Guide (6th Edition)**](https://learning.oreilly.com/library/view/a-guide-to/9781628253900/): Top project management guide.
 - `Course` [**An Agile Crash Course**](https://learning.oreilly.com/videos/an-agile-crash/9781789533415/): Agile for Dummies.
 
 ## Python
