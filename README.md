@@ -58,6 +58,7 @@ A curated list of awesome books I've read, courses I've completed, and other res
 
 ## Productivity Apps
 - `App` [**Anki**](https://apps.ankiweb.net): A program which makes remembering things easy. Here's a [primer](http://augmentingcognition.com/ltm.html).
+- `App` [**Maccy**](https://github.com/p0deje/Maccy): Copy/paste like a pro on macOS.
 - `App` [**Magnet**](https://magnet.crowdcafe.com): A window manager for macOS.
 - `App` [**Things**](https://culturedcode.com/things/): A beautiful task manager for macOS & iOS.
 - `App` [**Typinator**](https://www.ergonis.com/products/typinator/): Automates the process of inserting frequently used text/code.
